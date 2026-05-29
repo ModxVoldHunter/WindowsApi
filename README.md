@@ -9,4 +9,4 @@ you need .NET 10 for building which you can get here [.NET 10](https://dotnet.mi
 
 go to the folder and in windows path, type cmd
 
-it will open cmd and type dotnet build
+it will open cmd and type ``dotnet build``

@@ -1,1 +1,2 @@
 User32.*
+Kernel32.*

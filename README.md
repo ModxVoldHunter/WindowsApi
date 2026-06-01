@@ -12,3 +12,5 @@ go to the folder and in windows path, type cmd
 it will open cmd and type ``dotnet build -c release`` and ``dotnet build -c debug``
 
 since it has AOT, it means it will be to assembly so after doing your project and having it set to AOT, you could of course use the AOT dll for the output
+
+also don't mind the cmd, i tried to make a build file for building it easier

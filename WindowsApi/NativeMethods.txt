@@ -1,0 +1,4 @@
+User32.*
+Kernel32.*
+gdi32.*
+gdiplus.*

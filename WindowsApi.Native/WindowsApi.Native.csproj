@@ -5,10 +5,7 @@
     <Optimize>True</Optimize>
     <CsWin32RunAsBuildTask>True</CsWin32RunAsBuildTask>
     
-
-    <PublishAot>true</PublishAot>
     <DisableRuntimeMarshalling>true</DisableRuntimeMarshalling>
-    <PublishTrimmed>true</PublishTrimmed>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <SelfContained>true</SelfContained>
 
@@ -24,7 +21,6 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Windows.CsWinRT" Version="3.0.0-preview.260319.2" />
-    <PackageReference Include="Microsoft.Windows.SDK.Contracts" Version="10.0.28000.1839" />
     <PackageReference Include="Microsoft.Windows.WinMD" Version="1.0.260529.3" />
   </ItemGroup>
 

@@ -1,0 +1,7 @@
+-target net10.0
+-input local
+-input 
+-output "c:\Users\slimb\Downloads\WindowsApi-main\WindowsApi-main\WindowsApi\obj\Debug\net10.0\Generated Files\CsWinRT"
+
+-exclude Windows
+-exclude Microsoft
